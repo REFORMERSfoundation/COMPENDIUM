@@ -1,2 +1,2 @@
 # CÖMPENDIUM
-Truly faithful theorem prover algorithm
+Truly & faithful theorem prover algorithm
